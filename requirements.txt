@@ -1,0 +1,15 @@
+# Python 3.10
+# Instalare: pip install -r requirements.txt
+#            pip install magenta==2.1.4 --no-deps
+tensorflow==2.10.1
+tensorflow-probability==0.18.0
+tf-slim==1.1.0
+protobuf==3.20.3
+numpy==1.23.5
+note-seq==0.0.5
+pretty_midi
+mido==1.2.6
+pygtrie
+absl-py
+scipy
+matplotlib
