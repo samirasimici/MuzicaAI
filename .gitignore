@@ -1,0 +1,13 @@
+#mediu virtual Python
+.venv/
+
+#setari PyCharm
+.ideea/
+
+#fisiere temporare Python
+__pycache__/
+*.pyc
+
+#modelele Magenta descarcate si uzica generata
+models/
+output/
